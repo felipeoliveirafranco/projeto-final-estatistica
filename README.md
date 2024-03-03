@@ -13,13 +13,11 @@ O projeto final é uma maneira de consolidar o aprendizado e fornecer uma oportu
 As soluções foram desenvolvidas com base nos conceitos que aprendemos no módulo de Estatística. 
 
 Para proporcionar um contexto a essa exploração, apresento um cenário fictício que servirá como pano de fundo para o projeto.
-Nesse projeto, além da análise exploratória em linguagem python, com o intuito de praticar e consolidar ainda mais os conhecimentos dos módulos anteriores, elaborei dashboards em Power BI.
 
 O projeto inclui os seguintes itens:
 
 - [Notebook]() com os detalhes do cenário, descrição do dataset e as análises;
-- [Dataset]() escolhido para o projeto;
-- [Arquivo de Power BI]() com análises adicionais.
+- [Dataset]() escolhido para o projeto.
 
 #
 
