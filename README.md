@@ -16,8 +16,8 @@ Para proporcionar um contexto a essa exploração, apresento um cenário fictíc
 
 O projeto inclui os seguintes itens:
 
-- [Notebook]() com os detalhes do cenário, descrição do dataset e as análises;
-- [Dataset]() escolhido para o projeto.
+- [Notebook](https://github.com/felipeoliveirafranco/projeto-final-estatistica/blob/main/projeto_final_felipe_franco.ipynb) com os detalhes do cenário, descrição do dataset e as análises;
+- [Dataset](https://github.com/felipeoliveirafranco/projeto-final-estatistica/blob/main/dataset.csv) escolhido para o projeto.
 
 #
 
